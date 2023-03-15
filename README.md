@@ -1,2 +1,17 @@
 # Next.js-Blog-Application
-The application is designed to provide users with a seamless browsing experience, allowing them to access a vast library of high-quality blog content with ease.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Getting Started
+
+Run the development server 
+```
+
+npm install 
+
+npm run dev
+```
+
+# Technologies used
+1. Next.js
+2. React
+3. Tailwind CSS
